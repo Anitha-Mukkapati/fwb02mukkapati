@@ -12,5 +12,18 @@
     "http-errors": "^1.8.0",
     "morgan": "^1.10.0",
     "pug": "^3.0.2"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anitha-Mukkapati/fwb02mukkapati.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anitha-Mukkapati/fwb02mukkapati/issues"
+  },
+  "homepage": "https://github.com/Anitha-Mukkapati/fwb02mukkapati#readme",
+  "description": ""
 }
