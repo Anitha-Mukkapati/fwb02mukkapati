@@ -9,3 +9,9 @@ Class starbucks
 coffee_type(string)
 quantity(number)
 cost(number)
+
+[Starbucks](https://fwb02mukkapati.herokuapp.com/starbucks)
+
+[Addmods](https://fwb02mukkapati.herokuapp.com/addmods)
+
+[Selector](https://fwb02mukkapati.herokuapp.com/selector)
