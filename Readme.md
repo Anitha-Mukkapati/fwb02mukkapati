@@ -12,6 +12,6 @@ cost(number)
 
 [Starbucks](https://fwb02mukkapati.herokuapp.com/starbucks)
 
-[Addmods](https://fwb02mukkapati.herokuapp.com/addmods)
+[Addmods](https://fwb02mukkapati.herokuapp.com/addmods?rows=3&cols=4)
 
 [Selector](https://fwb02mukkapati.herokuapp.com/selector)
